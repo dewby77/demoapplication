@@ -1,0 +1,91 @@
+.header {
+    margin-left:10px;
+    margin-right:10px;
+}
+
+.btn-primary {
+    background-color: #2675AF;
+    border-color: #2274AF;
+    color: #ffffff;
+}
+
+.btn-link {
+   color: #2675AF; 
+}
+
+.img-brand {
+    max-width: 175px;
+    max-height: 60px;
+}
+
+.navbar-fixed-top {
+    position: relative;
+}
+
+.navbar-fixed-top {
+    border-bottom-color: #33f014;
+    border-width: 3px;
+}
+
+.navbar-default .navbar-nav > .active > a, .navbar-default .navbar-nav > .active > a:hover, .navbar-default .navbar-nav > .active > a:focus {
+    color: #39C2E8;
+    font-weight: bold;
+    background-color: #f8f8f8;
+}
+
+.text-container {
+    background-color: white;
+    padding:5px;
+}
+
+.btn-negative {
+    background-color: #A0252C;
+    color:white;
+}
+
+.btn-negative:hover, .btn-negative:focus {
+    background-color: #BE3632;
+    color:white;
+}
+
+.text-center {
+  text-align: center;
+}
+
+.carousel-control.right {
+    background-image: none !important;
+}
+
+.carousel-control.left {
+    background-image: none !important;
+}
+
+.carousel-indicators li {
+    border: 1px solid #1c4489;   
+}
+
+.carousel-indicators .active {
+    background-color: #1c4489;
+}
+
+.carousel-control .icon-prev, .carousel-control .icon-next {
+    color: #1C4489;
+}
+
+#Container_Carousel{ 
+    margin:0;
+    padding:0;
+    width:100%;  
+}
+.item img{
+     width:100%;   
+}
+
+.carousel .item img {
+  max-height: 400px;
+  min-width: auto;
+}
+
+h1 {
+    color: #39c2e8;
+}
